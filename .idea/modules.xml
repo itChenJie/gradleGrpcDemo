@@ -4,11 +4,22 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gRpc.iml" filepath="$PROJECT_DIR$/.idea/modules/gRpc.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gRpc-client.iml" filepath="$PROJECT_DIR$/.idea/modules/gRpc-client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gRpc-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gRpc-client_main.iml" group="gRpc-client" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gRpc-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gRpc-client_test.iml" group="gRpc-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/31769630/gRpc-client.grpc-lib.iml" filepath="$PROJECT_DIR$/.idea/modules/31769630/gRpc-client.grpc-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/31769630/gRpc-client.grpc-lib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/31769630/gRpc-client.grpc-lib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/31769630/gRpc-client.grpc-lib.test.iml" filepath="$PROJECT_DIR$/.idea/modules/31769630/gRpc-client.grpc-lib.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gRpc-client.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gRpc-client.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gRpc-client.test.iml" filepath="$PROJECT_DIR$/.idea/modules/gRpc-client.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/31769630/gRpc.grpc-lib.iml" filepath="$PROJECT_DIR$/.idea/modules/31769630/gRpc.grpc-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/31769630/gRpc.grpc-lib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/31769630/gRpc.grpc-lib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/31769630/gRpc.grpc-lib.test.iml" filepath="$PROJECT_DIR$/.idea/modules/31769630/gRpc.grpc-lib.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gRpc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gRpc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gRpc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/gRpc.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gRpc_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gRpc_main.iml" group="gRpc" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gRpc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gRpc_test.iml" group="gRpc" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grpc-demo.grpc-lib.iml" filepath="$PROJECT_DIR$/.idea/modules/grpc-demo.grpc-lib.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/grpc-lib.iml" filepath="$PROJECT_DIR$/.idea/modules/grpc-lib.iml" group="grpc-lib" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grpc-lib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/grpc-lib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grpc-lib.test.iml" filepath="$PROJECT_DIR$/.idea/modules/grpc-lib.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/grpc-lib_main.iml" filepath="$PROJECT_DIR$/.idea/modules/grpc-lib_main.iml" group="grpc-lib" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/grpc-lib_test.iml" filepath="$PROJECT_DIR$/.idea/modules/grpc-lib_test.iml" group="grpc-lib" />
       <module fileurl="file://$PROJECT_DIR$/.idea/rpc-demo.iml" filepath="$PROJECT_DIR$/.idea/rpc-demo.iml" />

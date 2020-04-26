@@ -2,10 +2,25 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="gRpc" target="1.8" />
+      <module name="gRpc-client" target="1.8" />
+      <module name="gRpc-client.grpc-lib" target="1.8" />
+      <module name="gRpc-client.grpc-lib.main" target="1.8" />
+      <module name="gRpc-client.grpc-lib.test" target="1.8" />
+      <module name="gRpc-client.main" target="1.8" />
+      <module name="gRpc-client.test" target="1.8" />
       <module name="gRpc-client_main" target="1.8" />
       <module name="gRpc-client_test" target="1.8" />
+      <module name="grpc-demo.grpc-lib" target="1.8" />
+      <module name="grpc-lib.main" target="1.8" />
+      <module name="grpc-lib.test" target="1.8" />
       <module name="grpc-lib_main" target="1.8" />
       <module name="grpc-lib_test" target="1.8" />
+      <module name="gRpc.grpc-lib" target="1.8" />
+      <module name="gRpc.grpc-lib.main" target="1.8" />
+      <module name="gRpc.grpc-lib.test" target="1.8" />
+      <module name="gRpc.main" target="1.8" />
+      <module name="gRpc.test" target="1.8" />
       <module name="gRpc_main" target="1.8" />
       <module name="gRpc_test" target="1.8" />
     </bytecodeTargetLevel>

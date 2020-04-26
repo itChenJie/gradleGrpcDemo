@@ -18,6 +18,7 @@ import static io.grpc.stub.ServerCalls.asyncUnimplementedStreamingCall;
 /**
  * <pre>
  * The greeting service definition.
+ *定义的接口的类，这里会生成一个SimpleGrpc.class，服务端需要来实现的
  * </pre>
  */
 @javax.annotation.Generated(
@@ -66,13 +67,14 @@ public class SimpleGrpc {
   /**
    * <pre>
    * The greeting service definition.
+   *定义的接口的类，这里会生成一个SimpleGrpc.class，服务端需要来实现的
    * </pre>
    */
   public static abstract class SimpleImplBase implements io.grpc.BindableService {
 
     /**
      * <pre>
-     * Sends a greeting
+     *定义接口方法
      * </pre>
      */
     public void sayHello(net.devh.examples.grpc.lib.HelloRequest request,
@@ -96,6 +98,7 @@ public class SimpleGrpc {
   /**
    * <pre>
    * The greeting service definition.
+   *定义的接口的类，这里会生成一个SimpleGrpc.class，服务端需要来实现的
    * </pre>
    */
   public static final class SimpleStub extends io.grpc.stub.AbstractStub<SimpleStub> {
@@ -116,7 +119,7 @@ public class SimpleGrpc {
 
     /**
      * <pre>
-     * Sends a greeting
+     *定义接口方法
      * </pre>
      */
     public void sayHello(net.devh.examples.grpc.lib.HelloRequest request,
@@ -129,6 +132,7 @@ public class SimpleGrpc {
   /**
    * <pre>
    * The greeting service definition.
+   *定义的接口的类，这里会生成一个SimpleGrpc.class，服务端需要来实现的
    * </pre>
    */
   public static final class SimpleBlockingStub extends io.grpc.stub.AbstractStub<SimpleBlockingStub> {
@@ -149,7 +153,7 @@ public class SimpleGrpc {
 
     /**
      * <pre>
-     * Sends a greeting
+     *定义接口方法
      * </pre>
      */
     public net.devh.examples.grpc.lib.HelloReply sayHello(net.devh.examples.grpc.lib.HelloRequest request) {
@@ -161,6 +165,7 @@ public class SimpleGrpc {
   /**
    * <pre>
    * The greeting service definition.
+   *定义的接口的类，这里会生成一个SimpleGrpc.class，服务端需要来实现的
    * </pre>
    */
   public static final class SimpleFutureStub extends io.grpc.stub.AbstractStub<SimpleFutureStub> {
@@ -181,7 +186,7 @@ public class SimpleGrpc {
 
     /**
      * <pre>
-     * Sends a greeting
+     *定义接口方法
      * </pre>
      */
     public com.google.common.util.concurrent.ListenableFuture<net.devh.examples.grpc.lib.HelloReply> sayHello(

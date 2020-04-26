@@ -5,7 +5,7 @@ package net.devh.examples.grpc.lib;
 
 /**
  * <pre>
- * The response message containing the greetings
+ *返回结果
  * </pre>
  *
  * Protobuf type {@code HelloReply}
@@ -249,7 +249,7 @@ public  final class HelloReply extends
   }
   /**
    * <pre>
-   * The response message containing the greetings
+   *返回结果
    * </pre>
    *
    * Protobuf type {@code HelloReply}

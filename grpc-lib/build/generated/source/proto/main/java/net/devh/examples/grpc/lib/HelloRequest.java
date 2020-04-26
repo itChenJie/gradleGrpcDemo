@@ -5,7 +5,7 @@ package net.devh.examples.grpc.lib;
 
 /**
  * <pre>
- * The request message containing the user's name.
+ *请求参数
  * </pre>
  *
  * Protobuf type {@code HelloRequest}
@@ -249,7 +249,7 @@ public  final class HelloRequest extends
   }
   /**
    * <pre>
-   * The request message containing the user's name.
+   *请求参数
    * </pre>
    *
    * Protobuf type {@code HelloRequest}
